@@ -1,0 +1,16 @@
+body{
+    /* background-color:rgba(45, 212, 45, 0.2);
+    background-image: url(https://media.istockphoto.com/photos/white-passenger-bus-picture-id135327019?k=20&m=135327019&s=612x612&w=0&h=YJneXYFReSVuKSIFOy5wGIygeLeb1UquX4BWLk-MluI=);
+    background-repeat: no-repeat; */
+    /* background-size: contain; */
+    /* background-size: cover; (it will cover entire position of web page)*/
+    /* background-size: 100% 90%; */
+    /* background-position:center; */
+    /* background-position: top left;(image is moved to top left ) */
+    /* background-position: bottom left; */
+    /* background-attachment: scroll;(both image and content is scrolled) */
+    /* background-attachment: fixed;(image is fixed at that perticular position) */
+/* background:#854565 url(https://media.istockphoto.com/photos/white-passenger-bus-picture-id135327019?k=20&m=135327019&s=612x612&w=0&h=YJneXYFReSVuKSIFOy5wGIygeLeb1UquX4BWLk-MluI=) no-repeat bottom left fixed ; */
+/* writing the code in a single line*/
+}
+
